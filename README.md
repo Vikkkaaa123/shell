@@ -38,11 +38,11 @@ gcc -o my_shell my_shell.c
 ### Вариант 2: Запуск через Docker (без компиляции)
 1. Скачать образ
 ```bash
-docker pull yourdockerhub/my-shell
+docker pull vikkkaaa/my-shell
 ```
 2. Запустить
 ```bash
-docker run -it yourdockerhub/my-shell
+docker run -it vikkkaaa/my-shell
 ```
 
 ## 🐋 Docker-сборка (для разработчиков)
