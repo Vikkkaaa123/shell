@@ -51,3 +51,5 @@ docker run -it vikkkaaa/my-shell
 docker build -t my-shell .
 docker run -it my-shell
 ```
+
+[![Docker Image](https://img.shields.io/docker/pulls/vikkkaaa/my-shell?label=Docker%20Hub)](https://hub.docker.com/r/vikkkaaa/my-shell)
