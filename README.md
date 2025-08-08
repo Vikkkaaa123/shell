@@ -36,6 +36,7 @@ gcc -o my_shell my_shell.c
 ```
 
 ### Вариант 2: Запуск через Docker (без компиляции)
+[![Docker Image](https://img.shields.io/docker/pulls/vikkkaaa/my-shell?label=Docker%20Hub)](https://hub.docker.com/r/vikkkaaa/my-shell)
 1. Скачать образ
 ```bash
 docker pull vikkkaaa/my-shell
@@ -52,4 +53,7 @@ docker build -t my-shell .
 docker run -it my-shell
 ```
 
-[![Docker Image](https://img.shields.io/docker/pulls/vikkkaaa/my-shell?label=Docker%20Hub)](https://hub.docker.com/r/vikkkaaa/my-shell)
+
+
+---
+[Мой Docker Hub](https://hub.docker.com/u/vikkkaaa)
